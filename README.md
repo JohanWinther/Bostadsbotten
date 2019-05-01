@@ -1,9 +1,9 @@
-# Förnya bostadsköer automatiskt
+# Bostadsbotten
 
 Håll dina bostadsköer förnyade automatiskt!
 
 Detta skript loggar automatiskt in på dina bostadsköer så att du inte tappar din registrering.
-Fungerar hittils endast för:
+Fungerar hittils för:
 - [SGS Studentbostäder](https://sgsstudentbostader.se)
 - [Chalmers Studentbostäder](https://chalmersstudentbostader.se)
 - [ByggVesta](https://www.byggvesta.se)
@@ -20,12 +20,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Download the project from Github
 ```
-git clone https://github.com/JohanWinther/renew-housing-queue
+git clone https://github.com/JohanWinther/Bostadsbotten
 ```
 
 Go into the folder
 ```
-cd renew-housing-queue
+cd Bostadsbotten
 ```
 
 Install all prerequisites

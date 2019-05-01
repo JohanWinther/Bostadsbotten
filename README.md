@@ -36,7 +36,7 @@ Create a copy of `credentials-example.json` called `credentials.json` and add an
 
 ## Deployment
 
-You probably want this to run automatically every X months, so make your system's task scheduler run the command
+You probably want this to run automatically every X months, so make your system's task scheduler runs the command
 ```
 node path-to-index.js
 ```

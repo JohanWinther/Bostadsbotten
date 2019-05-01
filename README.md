@@ -2,6 +2,7 @@
 
 Håll dina bostadsköer förnyade automatiskt!
 
+Detta skript loggar automatiskt in på dina bostadsköer så att du inte tappar din registrering.
 Fungerar hittils endast för:
 - [SGS Studentbostäder](https://sgsstudentbostader.se)
 - [Chalmers Studentbostäder](https://chalmersstudentbostader.se)

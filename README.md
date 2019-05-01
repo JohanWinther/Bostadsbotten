@@ -11,6 +11,10 @@ Fungerar hittils endast för:
 
 These instructions will get you a copy of the project up and running on your local machine for development and running purposes.
 
+### Prerequisites
+
+- Node v7.6.0 or greater
+
 ### Installing
 
 Download the project from Github

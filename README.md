@@ -1,6 +1,6 @@
 # Förnya bostadsköer automatiskt
 
-Håll dina bostadsköer förnyade.
+Håll dina bostadsköer förnyade automatiskt!
 
 Fungerar hittils endast för:
 - [SGS Studentbostäder](https://sgsstudentbostader.se)

@@ -1,0 +1,15 @@
+{
+  "name": "renew-housing-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johan.winther@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}

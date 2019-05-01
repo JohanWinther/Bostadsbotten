@@ -1,0 +1,62 @@
+{
+    "byggvesta": {
+        "name": "ByggVesta",
+        "url": "https://marknad.byggvesta.se/pgLogin.aspx",
+        "steps": [
+            {
+                "action": "type",
+                "field": "username",
+                "selector": "#loginUsername"
+            },
+            {
+                "action": "type",
+                "field": "password",
+                "selector": "#loginPassword"
+            },
+            {
+                "action": "click",
+                "selector": "button#btnLogin"
+            }
+        ]
+    },
+    "csb": {
+        "name": "Chalmers Studentbostäder",
+        "url": "https://www.chalmersstudentbostader.se/login",
+        "steps": [
+            {
+                "action": "type",
+                "field": "username",
+                "selector": "#user_login"
+            },
+            {
+                "action": "type",
+                "field": "password",
+                "selector": "#user_pass"
+            },
+            {
+                "action": "click",
+                "selector": "button[type=submit]"
+            }
+        ]
+    },
+    "sgs": {
+        "name": "SGS Studentbostäder",
+        "url": "https://www.sgsstudentbostader.se/Mina-sidor/Login?return=https://www.sgsstudentbostader.se/sv-se/mina-sidor",
+        "steps": [
+            {
+                "action": "type",
+                "field": "username",
+                "selector": "input[name=User]"
+            },
+            {
+                "action": "type",
+                "field": "password",
+                "selector": "input[name=Password]"
+            },
+            {
+                "action": "click",
+                "selector": "button[type=submit]"
+            }
+        ]
+    }
+}

@@ -18,7 +18,7 @@ const puppeteer = require('puppeteer');
             }
             await page.waitFor(1);
         }
-        await page.screenshot({path: `images/${config[site].name}.png`});
+        await page.screenshot({path: path.join(path.resolve(__dirname, './'), `images/${config[site].name}.png`)});
     }
     await browser.close();
 })();

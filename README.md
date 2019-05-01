@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Download the project from Github
 ```
-git clone JohanWinther/renew-housing-queue
+git clone https://github.com/JohanWinther/renew-housing-queue
 ```
 
 Go into the folder

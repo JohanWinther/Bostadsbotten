@@ -32,7 +32,7 @@ fs.readdir(imagesDirectory, (err, files) => {
                     page[step.action](step.selector)
                 ]);
             }
-            await page.waitFor(1);
+            await page.waitFor(2);
         }
         await page.screenshot({path: path.join(directory, `images/${config[site].name}.png`)});
     }
